@@ -1,0 +1,26 @@
+.menu-bar{
+    background-color: darkblue;
+}
+.list{
+    background-color: darkblue;
+    color: aliceblue;
+}
+.bg{
+    background-color:rgb(159, 226, 191);
+}
+
+.text{
+    font-weight: bold;
+    font-size: 50px;
+    color: aliceblue;
+}
+.qt{
+    font-size: 30px;
+    color: black;
+}
+.d-pic{
+    background-color: darkblue;
+}
+hr{
+    color:black;
+}
